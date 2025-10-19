@@ -23,7 +23,10 @@ export default function Home() {
           Art
         </a>
         <a href="#drama" className="hover:underline">
-          Drama &amp; Puppetry
+          Drama & Puppetry
+        </a>
+        <a href="#learning" className="hover:underline">
+          Learning Experiences
         </a>
         <a href="#reflection" className="hover:underline">
           Reflection
@@ -43,9 +46,9 @@ export default function Home() {
             Children create upon the expression of ideas, thoughts, feelings,
             and understanding, which forms an important part of early childhood
             education. This includes art and drama along with curiosity,
-            exploration, imagination, and problem-solving for us. If people help
+            exploration, imagination, and problem-solving. If people help
             children engage with creative experiences, people help children
-            build critical thinking skills, create thinking skills, find
+            build critical thinking skills, creative thinking skills, find
             confidence, and identify as positive learners and creators. The
             Australian Children&apos;s Education and Care Quality Authority
             (ACECQA, 2023) considers creativity as supporting children&apos;s
@@ -66,9 +69,8 @@ export default function Home() {
             Vygotsky&apos;s sociocultural theory says development happens when
             children and their educators interact socially to understand the
             world collectively and construct meanings (Fleer & Veresov, 2020).
-            Value children&apos;s creativity for children to empower themselves
-            to own and be responsible for their own learning, becoming resilient
-            and curious.
+            Valuing children&apos;s creativity empowers them to take ownership
+            of learning, becoming resilient and curious.
           </p>
 
           <h3 className="text-xl font-semibold mt-4">
@@ -78,11 +80,10 @@ export default function Home() {
             Educators imagine by using open-ended resources, trialing and
             erring, sensing all, and responding positively to children&apos;s
             ideas. In creative curriculum, the process of children experiencing
-            the making, discovering and problem-solving is encouraged in
-            totality as much as the end product of making items or art. Teachers
-            engage with children&apos;s thinking and extend their learning using
-            reflective questioning and collaborative practices (Edwards &
-            Cutter-Mackenzie-Knowles, 2020).
+            making, discovering, and problem-solving is encouraged in totality
+            as much as the end product. Teachers engage with children's thinking
+            and extend their learning using reflective questioning and
+            collaborative practices (Edwards & Cutter-Mackenzie-Knowles, 2020).
           </p>
 
           <h3 className="text-xl font-semibold mt-4">
@@ -91,13 +92,12 @@ export default function Home() {
           <p>
             Art, drama, narrative, music, movement, science, and digital
             learning are all modes of making meaning, as set forth by
-            Gardner&apos;s theory of Multiple Intelligences (Gardner, 2021). All
-            are ways to support the learning of young children; drawing develops
-            visual-spatial intelligence, and dramatic play and storytelling
-            promote the development of language and emotional literacy. Using
-            digital technologies and resources such as tablets can also provide
-            opportunities for creativity, for example drawing a picture or
-            recording a drama performance (Bird &amp; Edwards, 2022).
+            Gardner&apos;s theory of Multiple Intelligences (Gardner, 2021).
+            Drawing develops visual-spatial intelligence, and dramatic play and
+            storytelling promote language and emotional literacy. Digital
+            technologies like tablets can also provide opportunities for
+            creativity, e.g., drawing or recording drama performances (Bird &
+            Edwards, 2022).
           </p>
 
           <h3 className="text-xl font-semibold mt-4">
@@ -106,25 +106,21 @@ export default function Home() {
           <p>
             Play is the medium through which children learn to think creatively.
             Children learn symbolic thought and express world knowledge through
-            imaginative play. They use sensory play and exploratory play in
-            addition. The EYLF Learning Outcomes, specifically Learning Outcome
-            4: Children Are Confident and Involved Learners in the EYLF
-            (Department of Education, 2022), states that children imagine, feel
-            curious, and experiment to investigate ideas and solve problems.
-            During creative play, children imagine so they can seize new
-            opportunities and communicate their ideas to other children.
+            imaginative play. They use sensory and exploratory play as well.
+            EYLF Learning Outcome 4 (Department of Education, 2022) states that
+            children imagine, feel curious, and experiment to investigate ideas
+            and solve problems.
           </p>
 
           <h3 className="text-xl font-semibold mt-4">
             Building a Culture of Creativity
           </h3>
           <p>
-            The creative curriculum encourages all practitioners, children and
+            The creative curriculum encourages practitioners, children, and
             families to value diversity in thought and expression, and to see
-            children as capable, resourceful and imaginative. It sets out how to
-            embed creativity throughout the curriculum so that all early years
-            settings build creative, enthusiastic, exploratory environments
-            which help children prepare for work, adult life and citizenship.
+            children as capable, resourceful, and imaginative. It embeds
+            creativity throughout the curriculum, helping early years settings
+            build exploratory environments preparing children for adult life.
           </p>
         </section>
 
@@ -135,16 +131,12 @@ export default function Home() {
           </h2>
           <p>
             Art in early childhood education fosters creative expression,
-            imagination and communication. Opportunities to use visual arts
-            allow children to express their ideas, thoughts, feelings and
-            experiences and develop fine motor skill, cognitive and
-            problem-solving abilities. Children use art to experiment with
-            colour, texture, and shape, and children develop both open-ended
-            thinking and creativity. Art exists within Learning Outcome 4 in the
-            EYLF (Department of Education, 2022) so children grow as learners
-            with confidence and children involve themselves using imagination
-            and experiment. Art experiences support children in expressing their
-            identity, diverse ideas and values, and in developing a sense of
+            imagination, and communication. Opportunities to use visual arts
+            allow children to express their ideas, thoughts, feelings, and
+            experiences, and develop fine motor, cognitive, and problem-solving
+            abilities. Art exists within Learning Outcome 4 in the EYLF
+            (Department of Education, 2022). Art experiences support children in
+            expressing their identity, diverse ideas and values, and a sense of
             belonging to creative communities (ACECQA, 2023).
           </p>
 
@@ -152,41 +144,124 @@ export default function Home() {
             Theories and Perspectives on Creativity in Art
           </h3>
           <p>
-            Theoretically, children&apos;s creativity has been examined in the
-            arts. According to Vygotsky&apos;s sociocultural theory of
-            creativity, children&apos;s artistic creativity should be seen from
-            the perspective of social interactions, the use of cultural tools,
-            and the internalization of creative ideas (Fleer &amp; Veresov,
-            2020). Lowenfeld&apos;s stages of artistic development suggest that
-            there is a natural process from scribbles to symbols and
-            Gardner&apos;s Multiple Intelligences Theory argues that
-            visual-spatial intelligence is one of the primary pathways to
-            creative thought (Gardner 2021). The Reggio Emilia approach sees
-            young children as the &quot;protagonists&quot; of their own learning
-            adventures, exploring meaning, identity, and relationships through
-            art (the hundred languages of children) (Edwards, 2021).
+            According to Vygotsky&apos;s sociocultural theory, children's
+            artistic creativity should be seen through social interactions, use
+            of cultural tools, and internalization of ideas (Fleer & Veresov,
+            2020). Lowenfeld&apos;s stages suggest a natural process from
+            scribbles to symbols. Gardner&apos;s Multiple Intelligences Theory
+            argues visual-spatial intelligence is a primary pathway to creative
+            thought (Gardner 2021). Reggio Emilia sees children as protagonists
+            of their own learning adventures (Edwards, 2021).
           </p>
 
           <h3 className="text-xl font-semibold mt-4">
             Resources, Materials, and Digital Technologies
           </h3>
           <p>
-            In arts, modeling, construction and collage take place with a
-            variety of open-ended, natural and recycled resources e.g. leaves,
-            clay, cardboard and sand. Basic art materials such as paints,
-            markers, collage papers and easels provide children with media
-            through which to express themselves. Digital technologies exist too
-            such as drawing tablets, light boxes and interactive whiteboards
-            (Bird &amp; Edwards, 2022). Educators can scaffold safe, meaningful
-            use of technology, such as Drawing Pad or Tayasui Sketches, for
-            digital arts expression. Rich art areas with organized materials
-            lead to independence of and creativity in all children (ACECQA,
-            2023).
+            Arts activities include modeling, construction, and collage with
+            open-ended, natural, and recycled resources such as leaves, clay,
+            cardboard, and sand. Materials like paints, markers, collage papers,
+            and easels allow expression. Digital technologies like drawing
+            tablets, light boxes, and interactive whiteboards enhance creativity
+            (Bird & Edwards, 2022). Educators can scaffold safe and meaningful
+            use of apps like Drawing Pad or Tayasui Sketches. Organized art
+            areas foster independence and creativity (ACECQA, 2023).
+          </p>
+        </section>
+
+        {/* Drama & Puppetry Section */}
+        <section id="drama">
+          <h2 className="text-2xl font-bold mb-4">Drama and Puppetry</h2>
+          <p>
+            Drama and puppetry empower children to express ideas, thoughts,
+            feelings, and stories through movement, voice, and imagination. They
+            support communication, empathy, and relationships. EYLF (Department
+            of Education, 2022) identifies dramatic play as a vehicle for
+            Learning Outcome 5. Puppetry develops confidence, problem-solving,
+            and emotional literacy (ACECQA, 2023).
           </p>
 
-          {/* Continue similarly for all sections, making sure every apostrophe is replaced with &apos; and every quote with &quot; */}
+          <h3 className="text-xl font-semibold mt-4">
+            Theories and Perspectives
+          </h3>
+          <p>
+            Vygotsky&apos;s sociocultural perspective shows that dramatic play
+            is a meaningful creative experience where children learn by
+            practicing imaginative play in social contexts (Fleer & Veresov,
+            2020). Bruner&apos;s constructivist model emphasizes narrative and
+            role-play. Gardner&apos;s Multiple Intelligences theory highlights
+            bodily-kinesthetic and interpersonal intelligences in drama. Reggio
+            Emilia recognizes drama as one of the &quot;hundred languages&quot;
+            of children (Edwards, 2021).
+          </p>
+        </section>
+
+        {/* Learning Experiences Section */}
+        <section id="learning">
+          <h2 className="text-2xl font-bold mb-4">
+            Learning Experiences by Age Group
+          </h2>
+          <p>
+            <strong>0–2 Years:</strong> Sensory Finger Painting, Nature Texture
+            Boards
+            <br />
+            <strong>2–3 Years:</strong> Collage with Recycled Materials, Crayon
+            Resist Painting
+            <br />
+            <strong>3–5 Years:</strong> Storytelling through Art Journals,
+            Collaborative Mural Making
+            <br />
+            <strong>6–8 Years:</strong> Digital Self-Portrait Project, Cultural
+            Pattern Design Workshop
+          </p>
+        </section>
+
+        {/* Reflection Section */}
+        <section id="reflection">
+          <h2 className="text-2xl font-bold mb-4">
+            Critical Reflection and Evaluation
+          </h2>
+          <p>
+            Collaborative Mural Making and Create-Your-Own Puppet Workshops
+            encouraged social interaction and exploration. Children participated
+            with enthusiasm, negotiated roles, and contributed unique
+            perspectives, showing creative agency and problem-solving, meeting
+            EYLF Learning Outcomes 1 and 4. Open-ended materials supported free
+            expression aligning with Reggio Emilia philosophy (Edwards, 2021).
+            Future improvements include more reflection time and digital
+            storytelling tools to enhance collaborative creativity.
+          </p>
+        </section>
+
+        {/* References Section */}
+        <section id="references">
+          <h2 className="text-2xl font-bold mb-4">References</h2>
+          <p>
+            ACECQA. (2023). Information sheet: Holistic, integrated and
+            interconnected approaches. https://www.acecqa.gov.au/
+            <br />
+            Bird, J., & Edwards, S. (2022). Children’s digital play and
+            learning: A socio-cultural perspective. Routledge.
+            <br />
+            Department of Education. (2022). Belonging, being and becoming: The
+            Early Years Learning Framework for Australia (Version 2.0).
+            Australian Government.
+            <br />
+            Edwards, C. (2021). The hundred languages of children: Reggio Emilia
+            approach to early childhood education. Praeger.
+            <br />
+            Edwards, S., & Cutter-Mackenzie-Knowles, A. (2020). Play and
+            learning in early childhood education. Cambridge University Press.
+            <br />
+            Fleer, M., & Veresov, N. (2020). Cultural-historical approaches to
+            child development: Vygotsky in the twenty-first century. Springer.
+            <br />
+            Gardner, H. (2021). Frames of mind: The theory of multiple
+            intelligences (Updated ed.). Basic Books.
+          </p>
         </section>
       </main>
     </div>
   );
 }
+ 
