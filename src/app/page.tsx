@@ -260,8 +260,31 @@ export default function Home() {
             intelligences (Updated ed.). Basic Books.
           </p>
         </section>
+        {/* Further Resources Section */}
+        <section id="resources">
+          <h2 className="text-2xl font-bold mb-4">Further Resources</h2>
+          <ul className="list-disc pl-6 space-y-2">
+            <li>
+              <a
+                href="https://ikon.ap-southeast-2.instructuremedia.com/collections/user/perspectives/7fUNClrauZkGQWBkgKXhgw"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline">
+                Perspectives Collection
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://ikon.ap-southeast-2.instructuremedia.com/login"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline">
+                IKON Login
+              </a>
+            </li>
+          </ul>
+        </section>
       </main>
     </div>
   );
 }
- 
