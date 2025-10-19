@@ -81,7 +81,7 @@ export default function Home() {
             erring, sensing all, and responding positively to children&apos;s
             ideas. In creative curriculum, the process of children experiencing
             making, discovering, and problem-solving is encouraged in totality
-            as much as the end product. Teachers engage with children's thinking
+            as much as the end product. Teachers engage with children"s thinking
             and extend their learning using reflective questioning and
             collaborative practices (Edwards & Cutter-Mackenzie-Knowles, 2020).
           </p>
@@ -144,7 +144,7 @@ export default function Home() {
             Theories and Perspectives on Creativity in Art
           </h3>
           <p>
-            According to Vygotsky&apos;s sociocultural theory, children's
+            According to Vygotsky&apos;s sociocultural theory, children"s
             artistic creativity should be seen through social interactions, use
             of cultural tools, and internalization of ideas (Fleer & Veresov,
             2020). Lowenfeld&apos;s stages suggest a natural process from
