@@ -40,7 +40,14 @@ export default function Home() {
             Children create upon the expression of ideas, thoughts, feelings,
             and understanding, which forms an important part of early childhood
             education. This includes art and drama along with curiosity,
-            exploration, imagination, and problem-solving...
+            exploration, imagination, and problem-solving for us. If people help
+            children engage with creative experiences, people help children
+            build critical thinking skills, create thinking skills, find
+            confidence, and identify as positive learners and creators. The
+            Australian Children's Education and Care Quality Authority (ACECQA,
+            2023) considers creativity as supporting children's holistic
+            development and aligns it to EYLF principles such as "Learning
+            through Play", "High Expectations" and "Respect for Diversity".
           </p>
 
           <h3 className="text-xl font-semibold mt-4">
@@ -50,7 +57,14 @@ export default function Home() {
             Children create by combining ideas with risk, explore possibilities,
             risk failing, and develop cognition, social skills, emotions, and
             physicality. Creativity is integral to Learning Outcome 5 of
-            Belonging, Being and Becoming...
+            Belonging, Being and Becoming. It is developed by engaging children
+            in pretend play, visual and performing arts and investigations.
+            Vygotsky's sociocultural theory says development happens when
+            children and their educators interact socially to understand the
+            world collectively and construct meanings (Fleer & Veresov, 2020).
+            Value children's creativity for children to empower themselves to
+            own and be responsible for their own learning, becoming resilient
+            and curious.
           </p>
 
           <h3 className="text-xl font-semibold mt-4">
@@ -58,8 +72,13 @@ export default function Home() {
           </h3>
           <p>
             Educators imagine by using open-ended resources, trialing and
-            erring, sensing all, and responding positively to children's
-            ideas...
+            erring, sensing all, and responding positively to children's ideas.
+            In creative curriculum, the process of children experiencing the
+            making, discovering and problem-solving is encouraged in totality as
+            much as the end product of making items or art. Teachers engage with
+            children's thinking and extend their learning using reflective
+            questioning and collaborative practices (Edwards &
+            Cutter-Mackenzie-Knowles, 2020).
           </p>
 
           <h3 className="text-xl font-semibold mt-4">
@@ -68,7 +87,13 @@ export default function Home() {
           <p>
             Art, drama, narrative, music, movement, science, and digital
             learning are all modes of making meaning, as set forth by Gardner's
-            theory of Multiple Intelligences...
+            theory of Multiple Intelligences (Gardner, 2021). All are ways to
+            support the learning of young children; drawing develops
+            visual-spatial intelligence, and dramatic play and storytelling
+            promote the development of language and emotional literacy. Using
+            digital technologies and resources such as tablets can also provide
+            opportunities for creativity, for example drawing a picture or
+            recording a drama performance (Bird & Edwards, 2022).
           </p>
 
           <h3 className="text-xl font-semibold mt-4">
@@ -77,7 +102,13 @@ export default function Home() {
           <p>
             Play is the medium through which children learn to think creatively.
             Children learn symbolic thought and express world knowledge through
-            imaginative play...
+            imaginative play. They use sensory play and exploratory play in
+            addition. The EYLF Learning Outcomes, specifically Learning Outcome
+            4: Children Are Confident and Involved Learners in the EYLF
+            (Department of Education, 2022), states that children imagine, feel
+            curious, and experiment to investigate ideas and solve problems.
+            During creative play, children imagine so they can seize new
+            opportunities and communicate their ideas to other children.
           </p>
 
           <h3 className="text-xl font-semibold mt-4">
@@ -85,7 +116,11 @@ export default function Home() {
           </h3>
           <p>
             The creative curriculum encourages all practitioners, children and
-            families to value diversity in thought and expression...
+            families to value diversity in thought and expression, and to see
+            children as capable, resourceful and imaginative. It sets out how to
+            embed creativity throughout the curriculum so that all early years
+            settings build creative, enthusiastic, exploratory environments
+            which help children prepare for work, adult life and citizenship.
           </p>
         </section>
 
@@ -96,7 +131,17 @@ export default function Home() {
           </h2>
           <p>
             Art in early childhood education fosters creative expression,
-            imagination and communication...
+            imagination and communication. Opportunities to use visual arts
+            allow children to express their ideas, thoughts, feelings and
+            experiences and develop fine motor skill, cognitive and
+            problem-solving abilities. Children use art to experiment with
+            colour, texture, and shape, and children develop both open-ended
+            thinking and creativity. Art exists within Learning Outcome 4 in the
+            EYLF (Department of Education, 2022) so children grow as learners
+            with confidence and children involve themselves using imagination
+            and experiment. Art experiences support children in expressing their
+            identity, diverse ideas and values, and in developing a sense of
+            belonging to creative communities (ACECQA, 2023)
           </p>
 
           <h3 className="text-xl font-semibold mt-4">
@@ -104,7 +149,18 @@ export default function Home() {
           </h3>
           <p>
             Theoretically, children's creativity has been examined in the arts.
-            According to Vygotsky's sociocultural theory...
+            According to Vygotsky's sociocultural theory of creativity,
+            children's artistic creativity should be seen from the perspective
+            of social interactions, the use of cultural tools, and the
+            internalization of creative ideas (Fleer & Veresov, 2020).
+            Lowenfeld's stages of artistic development suggest that there is a
+            natural process from scribbles to symbols and Gardner's Multiple
+            Intelligences Theory argues that visual-spatial intelligence is one
+            of the primary pathways to creative thought (Gardner 2021). The
+            Reggio Emilia approach sees young children as the "protagonists" of
+            their own learning adventures, exploring meaning, identity, and
+            relationships through art (the hundred languages of children)
+            (Edwards, 2021).
           </p>
 
           <h3 className="text-xl font-semibold mt-4">
