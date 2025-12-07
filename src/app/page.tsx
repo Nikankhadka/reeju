@@ -25,9 +25,13 @@ const ChildhoodEducationReport = () => {
   const sections = [
     { id: "cover", title: "Cover Page", icon: Home },
     { id: "introduction", title: "Introduction", icon: BookOpen },
-    { id: "video", title: "Video Presentation", icon: Video },
-    { id: "methodology", title: "Methodology", icon: Users },
+    {
+      id: "ctp",
+      title: "Creativity Theories and Perspectives",
+      icon: BookOpen,
+    },
     { id: "findings", title: "Key Findings", icon: Lightbulb },
+    { id: "video", title: "Video Presentation", icon: Video },
     { id: "conclusion", title: "Conclusion", icon: Star },
   ];
 
@@ -130,11 +134,12 @@ const ChildhoodEducationReport = () => {
               {/* Example: YouTube Embed (uncomment and replace VIDEO_ID) */}
               <iframe
                 className="absolute inset-0 w-full h-full"
-                src="https://www.youtube.com/watch?v=0GZdBuKxG2E"
+                src="https://www.youtube.com/embed/0GZdBuKxG2E"
                 title="Video Presentation"
                 frameBorder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen></iframe>
+                allowFullScreen
+              />
             </div>
           </div>
         </div>
@@ -143,17 +148,12 @@ const ChildhoodEducationReport = () => {
 
     const content = {
       introduction: {
-        title: "Introduction",
-        body: `This report explores the fundamental principles of early childhood development through play-based learning. Play is not merely a recreational activity but a crucial component of cognitive, social, and emotional growth in young children.
-
-Research has consistently shown that children learn best when they are actively engaged in meaningful play experiences. Through play, children develop critical thinking skills, creativity, and social competencies that form the foundation for lifelong learning.
-
-This study examines various play-based learning approaches and their impact on childhood development, drawing from both theoretical frameworks and practical observations in educational settings.`,
+        title: "Movement and Music: Introduction",
+        body: `People have long recognised that movement and music support creative development in the early years because they allow children to express themselves, experiment, and imagine. Such active engagement in creating music allows children to convey meaning with sound, tempo, dynamics, and other musical structures via exploration of agency and self-expression (Howard & Mayesky, 2022; Macleod-Brisbane, 2020; Leong, 2022). Movement aids in sensory integration, regulates emotion, and causes divergent thinking. Teachers allow children to explore spontaneous dance when children have open-ended musical instruments like slinkies and scarves and space to move freely. In this way children will learn confidence, curiosity and creative thinking in all domains.`,
       },
-      methodology: {
-        title: "Methodology",
-        body: `Our research methodology incorporated a mixed-methods approach, combining qualitative observations with quantitative assessments of child development outcomes.
-
+      ctp: {
+        title: "Creativity Theories and Perspectives",
+        body: `Creative development in movement and music draws upon constructivist and socio-cultural theories of creativity. Through exploring and interacting with the environment and other people children learn about sound, rhythm and movement. In a similar vein, Howard and Mayesky (2022) support open-ended experiences as opportunities for children to create their own ideas through sound, rhythm and expression. Niland (2015) sees music as providing intrinsic motivation and an avenue for imagination through young children's creation, improvisation and interacting with stimuli. Isbell & Yoshizawa (2016) describe creativity as a mindset cultivated through curiosity, experimentation and opportunity to invent. Both movement and music are important to developing children's creative confidence and flexible thinking in meaningful, integrated ways (Isbell & Yoshizawa, 2016).
 Data Collection:
 • Classroom observations over a 12-week period
 • Interviews with educators and parents
