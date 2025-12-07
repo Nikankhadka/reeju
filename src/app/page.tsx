@@ -30,6 +30,11 @@ const ChildhoodEducationReport = () => {
       title: "Creativity Theories and Perspectives",
       icon: BookOpen,
     },
+    {
+      id: "rmt",
+      title: "Resources, Materials and Technologies",
+      icon: BookOpen,
+    },
     { id: "findings", title: "Key Findings", icon: Lightbulb },
     { id: "video", title: "Video Presentation", icon: Video },
     { id: "conclusion", title: "Conclusion", icon: Star },
@@ -134,7 +139,7 @@ const ChildhoodEducationReport = () => {
               {/* Example: YouTube Embed (uncomment and replace VIDEO_ID) */}
               <iframe
                 className="absolute inset-0 w-full h-full"
-                src="https://www.youtube.com/embed/0GZdBuKxG2E"
+                src="https://www.youtube.com/embed/OAcReqYl2d8"
                 title="Video Presentation"
                 frameBorder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -163,6 +168,10 @@ Data Collection:
 The study focused on children aged 3-6 years in diverse educational settings, including traditional classrooms, Montessori environments, and play-based learning centers. Each setting provided unique insights into how structured and unstructured play contributes to developmental milestones.
 
 Observations were conducted during various times of the day to capture different types of play activities and social interactions among children.`,
+      },
+      rmt: {
+        title: "Resource, Materials and Technologies",
+        body: `Materials for movement and music environment are open-ended, accessible, and inviting, such as tambourines, shakers, slinkies, drums, scarves, ribbons, or other materials from life that produce sounds. Use of digital technology, such as music apps, audio recording devices, and movement-based interactive media, can help children listen to and create patterns in movement and music for reflection (NAEYC & Fred Rogers Center, 2012). Kinaesthetic exploration tends to be organised through the inclusion of props such as slinkies stretched, shaken, bounced and manipulated in rhythmical ways; natural objects such as sticks, shells and stones. When provided with diverse resources which they can explore and experiment with, children show their creative capabilities through composing rhythms, sounds and imaginative movement.`,
       },
       findings: {
         title: "Key Findings",
