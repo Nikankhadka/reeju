@@ -111,104 +111,30 @@ const ChildhoodEducationReport = () => {
             Video Presentation
           </h2>
 
-          <div className="bg-white/60 backdrop-blur-sm rounded-xl sm:rounded-2xl p-4 sm:p-6 md:p-8 shadow-lg">
-            <div className="mb-4 sm:mb-6">
-              <p className="text-gray-700 text-sm sm:text-base mb-4">
-                Watch our comprehensive video presentation on early childhood
-                development and play-based learning methodologies.
-              </p>
-
-              {/* Video Input Section */}
-              <div className="bg-gradient-to-br from-purple-50 to-pink-50 rounded-xl p-4 sm:p-6 border-2 border-purple-200 mb-6">
-                <label className="block text-purple-800 font-semibold mb-3 text-sm sm:text-base">
-                  Add Your Video (Choose one option):
-                </label>
-
-                <div className="space-y-4">
-                  <div>
-                    <label className="block text-sm font-medium text-gray-700 mb-2">
-                      YouTube URL:
-                    </label>
-                    <input
-                      type="text"
-                      placeholder="https://www.youtube.com/watch?v=..."
-                      className="w-full px-4 py-2 text-sm sm:text-base border-2 border-purple-300 rounded-lg focus:border-purple-500 focus:ring-2 focus:ring-purple-200 outline-none transition-all"
-                    />
-                    <p className="text-xs text-gray-500 mt-1">
-                      Paste a YouTube URL here
-                    </p>
-                  </div>
-
-                  <div className="text-center text-gray-500 font-medium">
-                    OR
-                  </div>
-
-                  <div>
-                    <label className="block text-sm font-medium text-gray-700 mb-2">
-                      Video Embed Code:
-                    </label>
-                    <textarea
-                      placeholder='<iframe src="..." ...></iframe>'
-                      className="w-full px-4 py-2 text-sm sm:text-base border-2 border-purple-300 rounded-lg focus:border-purple-500 focus:ring-2 focus:ring-purple-200 outline-none transition-all h-24"
-                    />
-                    <p className="text-xs text-gray-500 mt-1">
-                      Paste embed code from YouTube, Vimeo, or other platforms
-                    </p>
-                  </div>
-                </div>
+          {/* Video Player Area */}
+          <div
+            className="relative w-full bg-gradient-to-br from-purple-100 to-pink-100 rounded-xl overflow-hidden shadow-inner"
+            style={{ paddingBottom: "56.25%" }}>
+            <div className="absolute inset-0 flex items-center justify-center">
+              {/* Placeholder - Replace with actual video */}
+              <div className="text-center p-6">
+                <Video className="w-16 h-16 sm:w-20 sm:h-20 text-purple-400 mx-auto mb-4" />
+                <p className="text-purple-600 font-semibold text-sm sm:text-base">
+                  Video Player
+                </p>
+                <p className="text-purple-500 text-xs sm:text-sm mt-2">
+                  https://www.youtube.com/watch?v=0GZdBuKxG2E
+                </p>
               </div>
-            </div>
 
-            {/* Video Player Area */}
-            <div
-              className="relative w-full bg-gradient-to-br from-purple-100 to-pink-100 rounded-xl overflow-hidden shadow-inner"
-              style={{ paddingBottom: "56.25%" }}>
-              <div className="absolute inset-0 flex items-center justify-center">
-                {/* Placeholder - Replace with actual video */}
-                <div className="text-center p-6">
-                  <Video className="w-16 h-16 sm:w-20 sm:h-20 text-purple-400 mx-auto mb-4" />
-                  <p className="text-purple-600 font-semibold text-sm sm:text-base">
-                    Video Player
-                  </p>
-                  <p className="text-purple-500 text-xs sm:text-sm mt-2">
-                    Add your video URL or embed code above
-                  </p>
-                </div>
-
-                {/* Example: YouTube Embed (uncomment and replace VIDEO_ID) */}
-                {/* <iframe
-                  className="absolute inset-0 w-full h-full"
-                  src="https://www.youtube.com/embed/VIDEO_ID"
-                  title="Video Presentation"
-                  frameBorder="0"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                  allowFullScreen
-                ></iframe> */}
-              </div>
-            </div>
-
-            <div className="mt-6 bg-blue-50 border-2 border-blue-200 rounded-xl p-4">
-              <h3 className="font-semibold text-blue-800 mb-2 text-sm sm:text-base">
-                💡 How to Add Your Video:
-              </h3>
-              <ol className="text-xs sm:text-sm text-blue-700 space-y-2 list-decimal list-inside">
-                <li>
-                  <strong>YouTube:</strong> Copy the video URL or click "Share"
-                  → "Embed" and paste the code
-                </li>
-                <li>
-                  <strong>Vimeo:</strong> Click the "Share" button and copy the
-                  embed code
-                </li>
-                <li>
-                  <strong>Google Drive:</strong> Right-click video → "Share" →
-                  "Get link" (set to "Anyone with link")
-                </li>
-                <li>
-                  <strong>Direct Video File:</strong> Upload to a hosting
-                  service first, then use the link
-                </li>
-              </ol>
+              {/* Example: YouTube Embed (uncomment and replace VIDEO_ID) */}
+              <iframe
+                className="absolute inset-0 w-full h-full"
+                src="https://www.youtube.com/watch?v=0GZdBuKxG2E"
+                title="Video Presentation"
+                frameBorder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen></iframe>
             </div>
           </div>
         </div>
