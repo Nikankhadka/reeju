@@ -17,6 +17,7 @@ import {
   Computer,
   BookMinus,
   HatGlasses,
+  VideoIcon,
 } from "lucide-react";
 
 const ChildhoodEducationReport = () => {
@@ -48,6 +49,7 @@ const ChildhoodEducationReport = () => {
       icon: Lightbulb,
     },
     { id: "references", title: "References", icon: Star },
+    { id: "video", title: "Video presentation", icon: VideoIcon },
   ];
 
   const renderCoverPage = () => (
@@ -620,7 +622,7 @@ Creativity: Integrate, innovate, reflect, and communicate within boundaries (Sto
       references: {
         title: "References",
         body: `References 
-        
+
 ACECQA. (2023a). National quality standard. Australian Children’s Education and Care Quality Authority. https://www.acecqa.gov.au
 ACECQA. (2023b). Belonging, being and becoming: The early years learning framework for Australia (V2.0). Australian Government Department of Education. https://www.acecqa.gov.au
 Australian Education Research Organisation. (2023). Learning trajectory – Language and communication. https://www.aero.edu.au
