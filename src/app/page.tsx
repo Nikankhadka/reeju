@@ -359,43 +359,287 @@ Stone-MacDonald et al. (2015) is the reference in this case.
 `,
       },
 
+      engineering: {
+        title: "Engineering",
+        body: `1.Introduction 
+
+Early childhood engineering, with a focus upon problem-solving, design, and experimentation, builds skills in manipulating materials and building structures. Unstructured challenges can help people develop critical thinking skills and resilience, also to cope with failure and the need for redesign. Children play with open-ended building tasks and simple machines along with construction, so they strengthen spatial awareness, and they know cause and effect. Children become more creative thinkers when they mix engineering with other disciplines such as science or mathematics and explore multiple solutions and designs. In line with the EYLF, through learning experiences involving engineering, children develop as confident, involved learners who make plans, experiment, and consider and reflect on problems that occur in the real world (Howard & Mayesky, 2022).
+
+2.Creativity Theories & Perspectives Relevant to Engineering
+
+Constructivist theories (Piaget, Vygotsky) stress exploration and social interaction in children's learning, while engineering creativity emerges when children are provided with open-ended materials and design challenges without predefined solutions (Howard & Mayesky, 2022). Theories of inquiry-based and project-based learning, as well as the Reggio Emilia approach, view the environment as a "third teacher" that promotes problem-solving and experimentation. Guilford's divergent thinking theory suggests that children create and engineer multiple solutions to a construction design problem. Teachers guide, scaffold, and encourage children to collaborate, use rich resources, and apply an engineering design process to create, test, modify, and analyse designs.
+
+3.Resources, Materials & Digital Technologies for Engineering
+
+Blocks, LEGO, recycled boxes, straws, connectors, ramps, pulleys, magnets and simple machines can be used by teachers to develop students' engineering and design thinking skills. Students build with sticks stones and shells using natural materials. Digital tools can also be utilised throughout exploratory and design challenges, such as coding apps, robotics kits, tablets to document designs, and 3D printing applications. Learning opportunities can include clay modelling, water flow, bridge building and testing, and spatial reasoning and design iteration skills learning. Open-ended materials allow children to express and refine their ideas with peers, work with peers, and engage in imaginative and engineering-like processes, thereby fostering critical thinking and innovative solutions (Howard & Mayesky, 2022).
+
+Learning Experiences to Foster Creativity in Engineering
+
+A. Age 0–2 Years
+
+ 1.Stacking and Balancing Blocks:Children play with soft light blocks adults model block stacking.
+
+Creativity focus: Cause-and-effect, early spatial reasoning (Howard & Mayesky, 2022).
+
+2.Rolling Objects: Interact on ramps, tubes, and balls to learn about rolling motion and gravity.
+
+Creative thinking includes observation. Creative thinking includes experimentation. Creative thinking includes problem-solving from Mayesky, 2015.
+
+B. Age 2-3 years 
+
+3. Construction: Children make bridges, towers, and other structures with building blocks and recycled materials.
+
+Creativity focus involves spatial reasoning also divergent thinking (Howard & Mayesky, 2022).
+
+4. Simple Pulleys & Levers: Introduce children to levers, toys, or boxes with which to experiment with lifting and sliding objects.
+Creative focus: Cause-and-effect, experimentation of Wilson, n.d.
+
+C. Age 3-5 years 
+
+5.Bridge and Tower Challenge: Teams of children construct a bridge and tower from blocks or recycled materials, testing the constructions for stability.
+Solve problems. Design iteratively. Collaborate (Howard & Mayesky, 2022).
+
+6. Water Flow: Use gutters, pipes, and containers for the investigation of water flow.
+
+Creativity focus: Engineering thinking, experimentation, predicting outcomes; source Wilson, no date.
+
+7. Marble Run Engineering: Create marble runs with tubes, connectors, and recycled materials. Ensure successful runs by modifying designs.
+Think critically, iterate designs, and collaborate with others as areas to focus on (Howard & Mayesky, 2022).
+
+8. With Simple Robotics or Coding Challenge: Complete a series of tasks with age-appropriate coding or robotics kits.
+Creativity focus includes computational thinking problem solving and innovative design (Stone-MacDonald et al., 2015).`,
+      },
+
+      technologies: {
+        title: "Technologies ",
+        body: `1.Introduction 
+
+In early childhood, technologies allow children to be creative with tools that ease their ability to explore, experiment, and express themselves. Children use digital devices, software, and multimedia for documenting and displaying ideas, problem-solving, and developing new and original solutions to problems. Technology enables collaboration, reflection and design iterations, making it possible for children to visualise, manipulate and experience materials and concepts in a virtual environment. It also supports learning, creativity and critical thinking alongside hands-on experiences. Technology also supports the dispositions of EYLF's element of confident, involved learners, enabling children to explore inquiry, problem-solve, express ideas in innovative ways and prepare for a digital future (Howard & Mayesky, 2022).
+
+2.Creativity Theories & Perspectives Relevant to Technologies
+Constructivist theories (Piaget, Vygotsky) about experiential and social learning support technology-based education. According to Howard and Mayesky (2022), children's creativity can flourish with open-ended technology and no predetermined outcome. Reggio Emilia views the environment as the "third teacher" and uses digital media to express, collaborate, and reflect; divergent thinking (Guilford) theories differentiate fluency, flexibility, originality, and elaboration as cognitive processes which projects (multimedia), coding, and digital storytelling can support. Teachers can foster innovation. Teachers can sharpen students' problem-solving and creativity with effort. This happens by helping students use technology responsibly. This happens by helping students experiment. This happens by helping students engage with a wide variety of digital experiences.
+
+3.Resources
+Introduction 
+
+In early childhood, technologies allow children to be creative with tools that ease their ability to explore, experiment, and express themselves. Children use digital devices, software, and multimedia for documenting and displaying ideas, problem-solving, and developing new and original solutions to problems. Technology enables collaboration, reflection and design iterations, making it possible for children to visualise, manipulate and experience materials and concepts in a virtual environment. It also supports learning, creativity and critical thinking alongside hands-on experiences. Technology also supports the dispositions of EYLF's element of confident, involved learners, enabling children to explore inquiry, problem-solve, express ideas in innovative ways and prepare for a digital future (Howard & Mayesky, 2, Materials & Digital Technologies for Creativity
+Teachers use technology such as tablets, computers, interactive whiteboards, cameras, coding kits, multimedia apps, educational videos, e-books, drawing apps, augmented reality, and virtual reality apps by exploring, discovering, and solving problems. Digital collaboration skilling can mean children use online collaborative tools. The children share their ideas. The children contribute to collaborative projects. When physical and digital environments integrate through tools like tablets to document experiments or create digital stories, the integration can stretch the boundaries of hands-on and digital experiences. Age-appropriate technologies with open ends encourage invention reflection and experimentation. Teachers create spaces with technology use that is purposeful for enabling children to be creative, digitally literate, and confident to use tools to express, explore, and change their world (Howard & Mayesky, 2022).
+
+Learning Experiences to Foster Creativity in Technologies
+
+A. Age 0–2 Years
+
+1.Digital Story Exploration: Babies view on-device storybooks or use cause-and-effect apps on a touch screen.
+Creativity focus: sensory exploration and early interactions with technology (Howard & Mayesky, 2022).
+
+2.Photo & Video Documentation: Educators observe and photograph children at play with tablets or cameras.
+Creativity focus: observation, self-expression with narratives, and reflection (Mayesky, 2015).
+
+B. Age 2-3 years 
+
+3. Interactive Drawing Apps: Use simple apps for children to make drawings or patterns.
+
+Creativity focus: Visual arts, exploration, fine motor skill development (Howard & Mayesky, 2022).
+
+4. Digital Music & Rhythm Play: Children create sounds and beats using music apps.
+
+Creativity focus: auditory exploration, improvisation, creative expression in Wilson (n.d.).
+
+C. Age 3-5 years 
+
+5. Coding Toys and Simple Robotics: kits suited to the age to follow sequences and solve simple puzzles.
+
+Creativity stresses problem solve, think logically, and experiment in addition (Howard & Mayesky, 2022).
+
+6. Digital storytelling projects: Stories contain photographs, drawings, and audio recordings.
+
+Creativity focus: Narrative creativity, collaboration and reflection (Wilson, date unknown).
+
+D. Age 6-8 years 
+
+7. Multimedia Presentations: Children create presentations through images, text, audio, and video.
+
+Creativity: Innovate, plan, and communicate digitally per (Howard & Mayesky, 2022).
+
+8. App Game Design: Children plan, design, and test apps or games appropriate toward their age group.
+
+Creativity focus involving design thinking, problem solving, and iteratively experimenting within (Stone-MacDonald et al., 2015).`,
+      },
+
+      mathematics: {
+        title: "Mathematics",
+        body: `1.Introduction 
+
+ Early childhood mathematics encourages creative thinking as children explore patterns, relationships, and problem-solving within real-world contexts. Children also learn of math concepts through objects, counting, measuring, sorting, and comparing objects. These activities provide children with opportunities in order to think flexibly and creatively about math. Mathematics experiences that are creative allow children to reason, visualise spatially and think critically as they test, identify patterns, and solve problems. Learning numeracy involves using play, art and science to explore, imagine and create. The EYLF states that children learn numeracy and become confident, involved learners. They use logic, reasoning, problem-solving, and creativity for sense-making of their world. They also interact in mathematical tasks in everyday life per Howard & Mayesky, 2022.
+
+2.Creativity Theories & Perspectives Relevant to Mathematics
+
+Piaget and Vygotsky have constructivist approaches to learning that stress children learn math through exploration, interaction and reflection (Howard & Mayesky, 2022). Creative thinking is encouraged in moments when children manipulate materials, explore patterns, and tackle open-ended problems. Discovery is supported with inquiry methods (students ask questions, experiment and talk about what they are doing) and the Reggio Emilia approach (the Reggio approach considers the environment the "third teacher.") Divergent thinking offers several solutions to numerical and spatial problems (Guilford 1950). Teachers help students build mathematical and metacognitive abilities while allowing opportunities to explore, reason, and argue.
+
+3. Resources, Materials & Digital Technologies for Mathematics
+
+Teachers can provide children interlocking blocks. Teachers can also provide pattern tiles. Teachers can give unusual materials like shells, cones, stones, or sticks. Teachers can provide counters, beads, measuring cups, number cards, and elementary geometric forms toward counting, sorting and creating patterns. Digital learning experiences may include maths apps, tablets, digital microscopes to measure objects, and online pattern games. Maths learning is supported through everyday activities like cooking, gardening and shopping role play. Resources are open-ended for encouraging pupils to explore, estimate, compare and reason. Physical, natural, and digital resources for children help children visualise ideas, test hypotheses, articulate creative solutions, and develop confidence and fluency within children (Howard & Mayesky, 2022).
+
+Learning Experiences to Foster Creativity in Mathematics
+
+A. Age 0–2 Years
+
+1.Sorting and Matching Objects:Babies group items based on color shape or size.
+
+Creativity emphasis: observing, classifying, and pattern recognition within (Howard & Mayesky, 2022).
+
+2.Stacking and Nesting Cups teach size spatial relationship and balance.
+
+Creativity focuses on spatial awareness, problem-solving, early measurement in (Mayesky, 2015).
+
+B. Age 2-3 years 
+
+3. Children count shells, stones, or leaves using natural materials.
+
+Creativity focus involves numeracy, estimation, and one-to-one correspondence (Howard & Mayesky, 2022).
+
+4. Blocks or Beads: Patterns can be created, patterns can be expanded.
+
+Wilson, n.d. states creativity focus includes divergent thinking, pattern recognition, and sequencing.
+
+C.Age 3-5 years 
+
+5. Measurement Exploration: Measure sand, water, or objects using cups, spoons, and rulers.
+
+Creativity focus: comparative reasoning, experimentation, problem-solving for all. (Howard & Mayesky, 2022)
+
+6. Shape and Geometry Hunt: Look for shapes and create structures.
+
+Creativity focus: Spatial reasoning, classification, representation (Wilson, n.d.).
+
+D. Age 6-8 years
+
+7. Simple Data Collection & Graphing: Children survey classmates among objects, and draw a graph.
+
+Creativity focus on analysis, visualisation, problem-solving. (Howard & Mayesky, 2022)
+
+8. Math Problem Challenges: Present students with open ended maths problems with multiple solutions for them.
+
+Creativity focus includes divergent thinking, reasoning, and flexible problem solving; Stone-MacDonald et al., 2015.`,
+      },
+
       hass: {
         title: "Humanities and Social Science",
-        body: `HASS promotes creativity by exploring social, cultural, and environmental contexts, encouraging empathy, perspective-taking, and innovation.
+        body: `1.Introduction 
 
-Resources: maps, globes, photographs, artefacts, storybooks, dress-up clothes, role-play materials, tablets, cameras, virtual field trips, storytelling apps.
+HASS in previous year levels promotes child creativity by guiding children to explore their world, other people and cultures, and their lives and experiences in the past and present through storytelling, role playing, mapping and the investigation of their communities, which develop their problem-solving, critical thinking and imagination skills.Creative HASS experiences foster empathy, perspective-taking and innovation as young children consider the effect on others whilst proactively offering solutions to issues impacting society or the environment. They support children's development as confident and involved learners, as outlined in the EYLF (Howard & Mayesky, 2022) by engaging critically and creatively with social, cultural and environmental contexts.
 
-Learning Experiences:
-- Family photo exploration  
-- Cultural music & movement  
-- Role-play community helpers  
-- Maps of local spots  
-- Timelines & community stories  
-- Community walk & observation  
-- Environmental investigation projects  
-- Cultural festival project  
+2.Creativity Theories & Perspectives Relevant to HASS 
 
-References: Howard & Mayesky (2022); Mayesky (2015); Wilson (n.d.); Stone-MacDonald et al. (2015).`,
+Constructivist theories of Piaget and Vygotsky assert that children construct knowledge about society, culture, and the natural world through exploration, social interaction, inquiry and reflection. Howard and Mayesky (2022) state that children create through open-ended problem exploration, solution investigation, and original representation creation. Inquiry learning draws from theorists like Reggio Emilia, who encourages children to ask questions, view things in a different way, and document their learning. Divergent thinking theorist Guilford believes children should explore multiple alternative and creative explanations in the HASS context. Teachers' guidance of children's exploration, reflection, and collaboration prepares children as critical, creative, and socially responsible learners (Mayesky, 2015).
+
+3.Resources, Materials & Digital Technologies for HASS 
+
+In HASS, teachers create by using maps, globes, photographs, artefacts, storybooks, timelines, dress-up clothes from different cultures, role-play, investigate outdoors plus take excursions, and connect with the community to investigate the local area, community, heritage and societies. Digital tools like tablet computers, still and moving image cameras, interactive maps, virtual field trips and storytelling apps research, document, and collaborate on projects. Open-ended tasks invite questioning in addition to critical thinking and creative expression. Early childhood educators use physical resources. They use digital resources. They use cultural resources to support children in exploring history. They explore geography. They explore social structures. They develop empathy. They use critical thinking. They use imaginative problem-solving in real-world contexts (Howard & Mayesky, 2022).
+
+Family Photo Exploration: Babies and toddlers explore family photos about relatives and relationships.
+
+Creativity focus includes recognition, early social understanding, and narrative abilities of a kind (Howard & Mayesky, 2022).
+Cultural Music & Movement: Songs, instruments, and dances of different cultures are learned.
+
+Creativity focuses on expression, cultural understanding, imaginative play (Mayesky, 2015).
+
+3. Role-Play Community Helpers: Children act as community helpers such as doctors, firefighters, or shopkeepers.
+Creativity focus: Creating with imagination, thinking divergently, and empathy in (Howard & Mayesky, 2022).
+
+4. Maps of familiar local spots can be explored using simple identification exercises.
+
+Creativity focus: Spatial reasoning observation and questioning (Wilson, n.d.).
+
+5. Children tell stories about the past and present and create timelines in communities or families.
+
+Concentrate on narrative creativity, representation, and critical thinking (Howard & Mayesky, 2022).
+
+6. Community Walk & Observation: Visit local parks, streets, or gardens for recording observations.
+
+Creativity practice involves inquiry observation problem-solving per Wilson, n.d.
+
+7. When children investigate environmental issues, they research recycling, water use, or local conservation programs in their community.
+Creativity focus: critical thinking, problem-solving, collaboration within (Howard & Mayesky, 2022).
+
+8. Cultural Festival Project: Pick a festival. The festival must come from another culture. Depict the festival with models, drawings or other media.
+Creativity focus stresses research, collaboration, and imaginative representation in (Stone-MacDonald et al., 2015).
+`,
       },
 
       integrated_curriculum: {
         title: "Integrated Curriculum (STEM, STEAM, STREAM, STEMIE)",
-        body: `Integrated learning (STEAM, STREAM, STEMIE) enhances creativity by connecting disciplines, solving real-world problems, and reflecting on discoveries.
+        body: `Introduction 
 
-Resources: blocks, construction toys, natural materials, art supplies, measuring instruments, digital tablets, computers, coding kits, robotics, gardens, neighborhood spaces, multimedia tools.
+If people put it into a STEAM (STEM with an arts focus), STREAM (with a reading/research focus) or STEMIE (with an Innovation & Entrepreneurship focus) context, creativity improves when they integrate, take hands-on approaches, solve real-world problems, approach systems, connect disciplines, inquire, design, and reflect with children. Interdisciplinarity causes children to think critically, to create, and to collaborate as they work on open-ended projects, as they hypothesise and experiment, and as they share their discoveries and gain insights. Experiences of integrated learning in alignment with the EYLF promote learners involved and confident. These learners use creative solutions within social, artistic, mathematical, technological, and scientific contexts. They can think with creativity. They can learn using mistakes. They can take risks (Howard & Mayesky, 2022).
 
-Learning Experiences:
-- Ages 0–2: Sensory STEM exploration, interactive story & music play.  
-- Ages 2–3: Building & art integration, nature & technology play.  
-- Ages 3–5: Simple robotics & storytelling, math & science garden project.  
-- Ages 6–8: Engineering & environmental innovation, STEAM exhibition.  
+Creativity Theories & Perspectives Relevant to Integrated Curriculum
 
-References: Howard & Mayesky (2022); Stone-MacDonald et al. (2015); Wilson (n.d.).`,
+Constructivist theorists Piaget and Vygotsky support interdisciplinary programs and curricula. These programs and curricula are based on meaning-making within explorative environments that promote social interaction. Howard and Mayesky (2022) describe creativity as children engage within open-ended, cross-curricular activities. Both inquiry-based and project-based learning are based on the Reggio Emilia approach, viewing the environment as a "third teacher" enabling exploration and experimentation. Guilford's divergent thinking stresses many solutions and approaches to problems. Teachers scaffold the teaching of these concepts and skills across STEM, Arts, literacy and innovation activities, using verbal and non-verbal prompts to support critical and creative thinking, reflection, collaboration and problem-solving.
+
+Resources, Materials & Digital Technologies for Integrated Curriculum
+
+Possible materials are blocks, construction toys, natural materials, art and craft materials, measuring instruments, technological equipment such as digital tablets, computers, coding kits, and robotics. Gardens, the neighborhood and urban spaces represent outdoor, natural and cultural resources for use. Digital tools like multimedia, data collection, 3D modelling, and virtual experiments improve creative ability, problem-solving ability, and documentation. Open-ended materials foster creative thinking through exploration by encouraging experimentation and iteration. Children explore science, technology, engineering, mathematics, art, literacy, and entrepreneurship with physical, digital, and natural materials as they construct knowledge and collaboratively solve problems (Howard & Mayesky, 2022).
+
+Learning Experiences to Foster Creativity in Integrated Curriculum
+
+A. Age 0–2 Years
+
+1. Sensory STEM Exploration:Water joins sand along with natural materials also art supplies which makes sensory exploratory play experiences.
+Creativity focus includes sensory exploration, experimenting, and imaginative thinking Howard & Mayesky, 2022.
+
+2.Interactive Story & Music Play: Exploring music, movement, and storytelling with focus upon rhythm and patterns.
+Creative expression, observation, and early literacy are key in development (Mayesky, 2015).
+
+B. Age 2-3 years 
+
+3. Building and Art Integration: Construction and design occur using blocks, loose parts, and paint.
+Creativity focuses on spatial reasoning, diverges in thinking, and expresses aesthetics (Howard & Mayesky, 2022).
+
+4. Nature & Technology Play: Use tablets or cameras for exploration of natural objects and making observations.
+Creativity focus: inquiry, observation, and early digital literacy (Wilson, n.d.).
+
+C. Age 3-5 years 
+
+5. Simple Robotics & Storytelling: Children program a robot for following a sequence and for narrating a story.
+Creativity emphasis: problem-solving, computational thinking, narrative creativity in (Howard & Mayesky, 2022).
+
+6. Math & Science Garden Project: Students grow plants then measure and record. Students observe through art and document.
+Creativity focus: Scientific reasoning, measuring, and imaginative representations in (Wilson, n.d.).
+
+D. Age 6-8 years 
+
+7. Engineering & Environmental Innovation: Develop a product through only recycled materials that solves a problem in your community.
+Creativity focus: Critical thinking, design thinking, and collaborative problem-solving around (Howard & Mayesky, 2022).
+
+8. STEAM Exhibition: Children create multimedia pieces that involve science experiments, art, maths, and literacy for presentation of solutions.
+Creativity: Integrate, innovate, reflect, and communicate within boundaries (Stone-MacDonald et al., 2015).
+`,
       },
 
       references: {
         title: "References",
-        body: `ACECQA (2023a, 2023b); Australian Education Research Organisation (2023); Connor & Toper (2015); Derman-Sparks & Edwards (2020); Howard & Mayesky (2022); Isbell & Yoshizawa (2016); Mayesky (2015); NAEYC & Fred Rogers Center (2012); Niland (2015); Pantoya et al. (2015); Stone-MacDonald et al. (2015); University of Nevada Cooperative Extension (2019); Wilson (n.d.)`,
+        body: `References 
+        
+ACECQA. (2023a). National quality standard. Australian Children’s Education and Care Quality Authority. https://www.acecqa.gov.au
+ACECQA. (2023b). Belonging, being and becoming: The early years learning framework for Australia (V2.0). Australian Government Department of Education. https://www.acecqa.gov.au
+Australian Education Research Organisation. (2023). Learning trajectory – Language and communication. https://www.aero.edu.au
+Connor, J., & Toper, C. A. (2015). Supporting literacy learning in the early years. Early Childhood Australia.
+Derman-Sparks, L., & Edwards, J. O. (2020). Anti-bias education for young children and ourselves (2nd ed.). National Association for the Education of Young Children.
+Howard, R., & Mayesky, M. (2022). Creative activities and curriculum for young children (12th ed.). Cengage.
+Howard, R., & Mayesky, M. (2022). Creativity and the young child (10th ed.). Cengage Learning.
+Isbell, R., & Akiko-Yoshizawa, S. (2016). Nurturing creativity: An essential mindset for young children’s learning. National Association for the Education of Young Children. https://www.naeyc.org
+Mayesky, M. (2015). Creative activities and curriculum for young children (11th ed.). Cengage.
+Mayesky, M. (2015). Creative activities for young children (10th ed.). Cengage Learning.
+National Association for the Education of Young Children, & The Fred Rogers Center for Early Learning and Children’s Media. (2012). Selected examples of effective classroom practice involving technology tools and interactive media. https://www.naeyc.org
+Niland, A. (2015). Music and children. Early Childhood Australia – Everyday Learning Series, 13(3). https://www.earlychildhoodaustralia.org.au
+Pantoya, M., Aguirre-Muñoz, Z., & Hunt, E. (2015). Developing an engineering identity in early childhood. American Journal of Engineering Education, 6(2), 61–68. 
+Stone-MacDonald, A., Marko, M., & Stoddart, T. (2015). STEM learning in early childhood: Supporting scientific reasoning and inquiry. Routledge.
+Stone-MacDonald, A., Wendell, K., Douglass, A., Love, M., & Hyson, M. (2015). Engaging young engineers: Teaching problem-solving skills through STEM (Part 1: Chapters 1–2). Brookes Publishing.
+University of Nevada Cooperative Extension. (2019). Engineering in the preschool classroom. https://extension.unr.edu
+Wilson, R. (n.d.). Exploring science and creative learning in early childhood. Early Childhood News. Retrieved December 5, 2025, from https://www.education.wa.edu.au
+Wilson, R. (n.d.). Promoting the development of scientific thinking. Early Childhood News. https://www.earlychildhoodnews.com
+`,
       },
     };
 
